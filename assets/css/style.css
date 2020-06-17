@@ -72,6 +72,9 @@ body{
   background-repeat: no-repeat;
    background-position: center;
   background-size: cover;
+
+  /* border: 19px dotted #c905c6; */
+  border-image: url('//s3-us-west-2.amazonaws.com/s.cdpn.io/4273/frame.png') 93 92 87 92 stretch ;
 }
 .top-right-card {
   padding: 30px;

@@ -28,7 +28,7 @@ body {
   -webkit-box-flex: 1;
       -ms-flex: 1 1 auto;
           flex: 1 1 auto;
-  background-image: url("https://chromemusic.de/wp-content/uploads/2017/01/bFDmgDE-Imgur.gif");
+  background-image: url("../../assets/images/stars-forest-silhouette.gif");
   background-size: cover;
   display: -webkit-box;
   display: -ms-flexbox;
